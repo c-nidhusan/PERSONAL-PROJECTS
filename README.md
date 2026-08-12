@@ -8,7 +8,7 @@ Built while learning offensive security, penetration testing, and bug bounty hun
 
 | Project | Description | Status |
 |---|---|---|
-| [QuickRecon](quickrecon/) | Lightweight subdomain enumeration + port scanning toolkit (Python, no dependencies) | ✅ Working |
+
 
 ## 🛠️ What I work with
 
